@@ -2,12 +2,6 @@
 
 A simple desktop music player built with **Electron** — play your local audio files with an easy interface and basic controls.
 
-[![Version](https://img.shields.io/github/v/release/ziad640/Music-player?style=flat-square)](https://github.com/ziad640/Music-player/releases)
-[![License](https://img.shields.io/github/license/ziad640/Music-player?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/ziad640/Music-player?style=flat-square)](https://github.com/ziad640/Music-player/stargazers)
-
----
-
 ## 🧠 Features
 
 🎶 **Playback**
@@ -36,3 +30,4 @@ git clone https://github.com/yourusername/Music-player.git
 cd Music-player
 npm install
 npm start
+
