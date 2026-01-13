@@ -1,0 +1,23 @@
+{
+  "name": "simple-music-player",
+  "version": "1.0.0",
+  "description": "A simple and clean music player",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "npx electron-packager . SimpleMusicPlayer --platform=win32 --arch=x64 --out=dist --overwrite"
+  },
+  "keywords": [
+    "music",
+    "player",
+    "simple"
+  ],
+  "author": "You",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^39.2.7"
+  },
+  "dependencies": {
+    "music-metadata": "^7.14.0"
+  }
+}
