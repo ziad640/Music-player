@@ -1,54 +1,38 @@
-# 🎵 Harmony Player
+# 🎵 Music Player
 
-**A modern, elegant music player for desktop.**
+A simple desktop music player built with **Electron** — play your local audio files with an easy interface and basic controls.
 
-Harmony Player is a sleek, cross-platform desktop music player built with **Electron**. Enjoy your music collection with a clean interface, smooth playback, and powerful library management tools.
-
-[![GitHub release](https://img.shields.io/github/v/release/yourusername/harmony-player?color=brightgreen&style=flat-square)](https://github.com/yourusername/harmony-player/releases)
-[![License](https://img.shields.io/github/license/yourusername/harmony-player?color=blue&style=flat-square)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/yourusername/harmony-player/total?color=orange&style=flat-square)](https://github.com/yourusername/harmony-player/releases)
+[![Version](https://img.shields.io/github/v/release/ziad640/Music-player?style=flat-square)](https://github.com/ziad640/Music-player/releases)
+[![License](https://img.shields.io/github/license/ziad640/Music-player?style=flat-square)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/ziad640/Music-player?style=flat-square)](https://github.com/ziad640/Music-player/stargazers)
 
 ---
 
-## ✨ Features
+## 🧠 Features
 
-### 🎵 Core Playback
-- ▶️ Play/Pause, Seek/Scrub, Volume control
-- 🔀 Shuffle & 🔁 Repeat (none/one/all)
-- ⏭️ Skip forward/backward
+🎶 **Playback**
+- Play/Pause
+- Next/Previous track
+- Seek & volume control
 
-### 📁 Music Library
-- 📂 Import audio files (MP3, WAV, FLAC, M4A, OGG, AAC)
-- 📁 Import entire folders with recursive scanning
-- 🏷️ Metadata parsing (ID3 tags, album art, duration)
-- 🔎 Real-time search across title, artist, album
-- 📜 Playlist creation and management
-- 📊 Multiple sorting options (recently added, title, artist, album)
+📁 **Library**
+- Add local audio files
+- Simple playlist
 
-### 🎨 User Interface
-- 🌙 Clean dark theme (with light theme option)
-- 📐 Responsive design for different screen sizes
-- 🎧 Now Playing view with album art
-- 📝 Queue system for upcoming tracks
-- ⌨️ Keyboard shortcuts for common actions
-
-### ⚡ Performance
-- 💻 Built with Electron for cross-platform support
-- ⚡ Fast library scanning and indexing
-- 🧠 Low memory usage
-- 🎞️ Smooth animations and transitions
+🎨 **UI**
+- Clean & minimal interface
+- Shows track title and duration
 
 ---
 
-## 🚀 Installation Instructions
+## 🚀 Quick Start
 
-### 1️⃣ Prerequisites
-- **Node.js** (v16+)
-- **npm** (or yarn)
+### Requirements
+- Node.js & npm installed
 
-### 2️⃣ Clone & Install
+### Install & Run
 ```bash
-git clone https://github.com/yourusername/harmony-player.git
-cd harmony-player
+git clone https://github.com/yourusername/Music-player.git
+cd Music-player
 npm install
-
+npm start
