@@ -10,24 +10,6 @@ Harmony Player is a sleek, cross-platform desktop music player built with **Elec
 
 ---
 
-## 📌 Table of Contents
-
-- [✨ Features](#-features)
-- [🚀 Installation](#-installation-instructions)
-- [📦 Build from Source](#-building-from-source)
-- [⌨️ Keyboard Shortcuts](#️-keyboard-shortcuts)
-- [📁 Project Structure](#-project-structure)
-- [🛠️ Technologies Used](#️-technologies-used)
-- [🤝 Contributing](#-contributing)
-- [❓ FAQ](#-faq)
-- [📸 Screenshots](#-screenshots-section)
-- [🛣️ Roadmap](#️-roadmap)
-- [📄 License](#-license)
-- [🙏 Acknowledgments](#-acknowledgments)
-- [💬 Support](#-support)
-
----
-
 ## ✨ Features
 
 ### 🎵 Core Playback
@@ -69,3 +51,4 @@ Harmony Player is a sleek, cross-platform desktop music player built with **Elec
 git clone https://github.com/yourusername/harmony-player.git
 cd harmony-player
 npm install
+
